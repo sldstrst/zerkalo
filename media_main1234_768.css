@@ -1,0 +1,36 @@
+    /*768 */
+    
+    @media (max-width: 768px) {
+        .m__block__one_general {
+            background-color: #ffffff;
+        }
+        .m__block__two_general {
+            background-color: #ffffff;
+        }
+        .m__block__three_general {
+            background-color: #ffffff;
+        }
+        .m__block__four_general {
+            background-color: #ffffff;
+        }
+        .m__block__interal {
+            width: 100%;
+            flex-direction: column;
+        }
+        .flex_column_revers {
+            flex-direction: column-reverse;
+        }
+        .m__block__interal_two {
+            width: 100%;
+        }
+        img {
+            border-radius: 0;
+        }
+        #m_one_image {
+            border-radius: 0;
+        }
+        #m_three_image {
+            border-radius: 0;
+        }
+        /* four */
+    }
